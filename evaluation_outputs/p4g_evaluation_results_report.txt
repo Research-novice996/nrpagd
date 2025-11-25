@@ -1,0 +1,930 @@
+数据集评估报告
+==================================================
+
+比较项 1:
+上下文: Persuader: Hello, How you doing
+            Persuadee: Great thanks, Im here to talk about the childrens charity.
+            Persuader: Yes, Hope you aware whats going with child who died from hunger...
+回复1: Yes, absolutely! Family members are more than welcome to join you at the donation event. The more, the merrier!
+回复2: Yes, absolutely! Family members are more than welcome to join the donation event. It’s a great way to involve them in supporting the cause.
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 2:
+上下文: Persuader: Hi. Are you familiar with Save the Children?
+            Persuadee: Hello. I am not familiar with Save the Children
+            Persuader: It is worldwide and helps to feed, shelter and edu...
+回复1: Save the Children has thousands of employees worldwide, working in various roles to support their mission. They also rely on many volunteers and local partners to help implement their programs effectively. Would you like to know more about their specific initiatives?
+回复2: Save the Children has thousands of employees globally, along with many volunteers who help support their mission. They work together to ensure that aid reaches the children who need it most. If you have any other questions, feel free to ask!
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+
+Response A provides more specific
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: B
+理由: B. Response B
+
+--------------------------------------------------
+
+比较项 3:
+上下文: Persuader: Would you be interested in donating to Save the Children ?
+            Persuadee: I am one who like to donate. Can you tell me more about it?
+            Persuader: Save the Children helps ...
+回复1: Yes, Save the Children often provides updates on their programs and how donations are being used. You can check their website or sign up for newsletters to stay informed about the impact of your contribution.
+回复2: Yes, Save the Children often provides updates and reports on their projects and the impact of donations. You can usually find information on their website or sign up for newsletters to stay informed about how your contribution is making a difference.
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: B
+理由: B. Response B
+
+--------------------------------------------------
+
+比较项 4:
+上下文: Persuader: Hello, How you doing
+            Persuadee: Great thanks, Im here to talk about the childrens charity.
+            Persuader: Yes, Hope you aware whats going with child who died from hunger...
+回复1: That’s incredibly generous of you! Your donation will make a significant impact on those children's lives. Thank you for being so compassionate and willing to help.
+回复2: That's incredibly generous of you! Your support will make a significant difference in the lives of those children. Thank you so much for your willingness to help!
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 5:
+上下文: Persuader: Hello how are you this morning.
+            Persuadee: I'm good, and you?
+            Persuader: I'm very well, thank you. Well the reason I'm contacting you is because I'm trying to find d...
+回复1: Any amount you feel comfortable with would be greatly appreciated! Even a small donation, like $1 or $2, can make a significant impact in the lives of children who are struggling. It's about coming together to create positive change. Would you consider making a contribution?
+回复2: Any amount would be incredibly helpful! Even a small donation of just $1 or $2 can make a significant difference in the lives of children around the world. Every little bit adds up and goes directly to programs that support their health, education, and well-being. Would you consider making a small contribution?
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 6:
+上下文: Persuader: Would you like to donate to a Charity called Save the Children?
+            Persuadee: Hi, it all depends on who you really are, if it's for a person very close to me if I'm willing...
+回复1: I completely understand! It's important to feel a connection. Save the Children is a well-established charity dedicated to helping children in need around the world, especially in developing countries and war zones. They focus on education, health care, and protection for vulnerable kids. Would you be open to learning more about how your support could make a real difference in their lives?
+回复2: I completely understand! It's important to feel comfortable with who you're donating to. Save the Children is a reputable charity that has been around for over 100 years, helping children in need all over the world. Their mission is to ensure every child has a chance at a better life, especially in developing countries and war-torn areas. Would you be open to hearing more about their impact?
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 7:
+上下文: Persuader: I am supposed to get you to donate some of your payment to a children's charity.
+            Persuadee: Could you tell me more about the charity?
+            Persuader: It appears to be com...
+回复1: I heard about Save the Children from various sources, including their official website and reports on their impact. The funds are typically directed towards programs that provide education, healthcare, and emergency assistance to children in need around the world. They focus on making sure that the money goes directly to projects that benefit children in developing countries and conflict zones.
+回复2: I don't have specific details on where the money goes or how it's distributed. However, Save the Children works in various countries to provide support for children's health, education, and protection. They aim to reach children in need, especially in areas affected by poverty and conflict. For more detailed information, you might want to check their official website or reports directly from them.
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 8:
+上下文: Persuader: Have you heard of the charity Save the Children?
+            Persuadee: No, I don't believe I have. What are their goals?
+            Persuader: They give children a healthy start in life, ...
+回复1: Absolutely! It's incredible to see the impact they make. Every contribution helps provide essential resources and support for children in need around the world. Would you be interested in making a small donation to help their efforts?
+回复2: Absolutely! It's incredible to see the impact they have on children's lives around the world. Every contribution, no matter how small, can help provide essential services like education, healthcare, and emergency support. Would you be interested in making a donation to support their work?
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: B
+理由: B. Response B
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 9:
+上下文: Persuader: Hi... how are you today? The research team is helping an organization called 'Save the Children'. Have you heard of it?
+            Persuadee: im doing well! How about you? I have heard abo...
+回复1: That's completely understandable. Even spreading the word about Save the Children can make a difference. If you ever feel inclined to donate in the future, know that every little bit helps! Thank you for your time today.
+回复2: That's completely understandable. Even spreading the word about Save the Children can make a difference. If you ever decide to support them in the future, every little bit counts. Thank you for your interest!
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 10:
+上下文: Persuader: Hello, are you interested in protection of rights of children?
+            Persuadee: Yes, definitely. What do you have in mind?
+            Persuader: There is organisation called Save the...
+回复1: It truly is heartbreaking. Children in war zones often face unimaginable challenges, from lack of basic necessities like food and clean water to the constant threat of violence. Organizations like Save the Children work tirelessly to provide them with the support they need to survive and thrive despite these circumstances.
+回复2: It really is heartbreaking. Children in these situations face not just physical dangers, but also psychological trauma and lack of access to basic needs like education and healthcare. It's a tough reality for them, and that's why organizations like Save the Children work tirelessly to provide support and resources.
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 11:
+上下文: Persuader: Hello. How are you?
+            Persuadee: I'm good, how are you doing?
+            Persuader: Very well. I'm just up organizing info for my charity. Are you involved with charities?
+      ...
+回复1: That's wonderful and incredibly important work! I'm involved with Save the Children. It focuses on improving the lives of children in developing countries and war zones, ensuring they have access to education, healthcare, and protection. It's amazing to see how a little help can make a big difference in their lives. Have you heard of Save the Children before?
+回复2: That's wonderful! I’m involved with Save the Children. They focus on helping children in developing countries and conflict zones by providing access to education, health care, and protection from harm. It's heartbreaking to see so many children in need, and I believe every effort counts. What do you think about supporting children's causes?
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 12:
+上下文: Persuader: Hello there!
+            Persuadee: hello how are you
+            Persuader: Fine. We\'re doing this drive for "Save the Children," and we were hoping for you to donate.
+            Persuad...
+回复1: That's great to hear! Have you heard about Save the Children and the impact they have on children's lives around the world?
+回复2: That’s great to hear! Have you heard about Save the Children and the work they do to support children in need around the world?
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 13:
+上下文: Persuader: This site Helps many child
+            Persuadee: What kind of children does it help?
+            Persuader: Their motto is to help children's future...that every child deserves a future
+  ...
+回复1: Yes, they provide a variety of support, including food and nutrition programs, clothing and shelter for those in need, as well as access to education and healthcare services. They focus on ensuring that children are safe and have the resources they need to thrive.
+回复2: Yes, they provide a variety of support. They offer food and nutrition programs, access to education, healthcare services, emergency relief in crisis situations, and support for families to help them become self-sufficient. Their goal is to ensure that children have the essentials they need to thrive.
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: B
+理由: B. Response B
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: B
+理由: B. Response B
+
+--------------------------------------------------
+
+比较项 14:
+上下文: Persuader: Hello! Ho are you doing today?
+            Persuadee: doing fine, what about you...
+回复1: I'm doing well, thank you! I’m glad to hear that. I wanted to talk to you about a charity called Save the Children. Have you heard of it before?
+回复2: I'm doing well, thank you! I've been thinking a lot about ways to help children in need around the world. Have you ever heard of a charity called Save the Children?
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 15:
+上下文: Persuader: Hello. Do you have children?
+            Persuadee: Yes, 2. You?...
+回复1: I don't have children of my own, but I care deeply about the well-being of all children. That’s actually why I'm reaching out today! Have you ever heard of Save the Children?
+回复2: I don't have children of my own, but I care deeply about the well-being of kids everywhere. That's actually why I'm reaching out to you today. Have you ever heard of Save the Children?
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 16:
+上下文: Persuader: will you donate some of your payment to save the children?
+            Persuadee: Yes, I would donate some of my payment to help save children. How about you? Are we supposed to mutually ag...
+回复1: Save the Children focuses on providing education, healthcare, and protection for children in need around the world. They work in various countries to ensure that children have access to essential resources and support during crises.
+回复2: Save the Children focuses on providing support in areas like education, healthcare, and emergency relief for children in need around the world. They work in various countries affected by poverty and conflict to ensure that children have a chance at a better future.
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 17:
+上下文: Persuader: How much money do you spend daily on extras like a coffee or treat?
+            Persuadee: I spend about 5 dollars a day, you?
+            Persuader: About 1 dollar per day. Do you think th...
+回复1: There are several ways you can help, including making a donation, volunteering your time, or even spreading awareness about the issues children face around the world. Would you be interested in making a small donation?
+回复2: You can help by making a donation, no matter how small. Even a dollar or two can go a long way in providing essential resources like food, education, and healthcare for children in need. Would you be interested in contributing?
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: B
+理由: B. Response B
+Emotional Resonance - Which connects better emotionally: B
+理由: B. Response B
+Overall Effectiveness - Which is better for convincing donation: B
+理由: B. Response B
+
+--------------------------------------------------
+
+比较项 18:
+上下文: Persuader: Hello.
+            Persuadee: Hello!
+            Persuader: I am supposed to ask you if you care about people being killed in Syria and things like that, I don't want to cause you any emoti...
+回复1: Thank you for your openness. It's important to talk about these issues, especially when it comes to children who are affected by conflict and poverty. Organizations like Save the Children work tirelessly to provide aid and support in those areas. Would you be interested in learning more about how they make a difference?
+回复2: Thank you for being open to this conversation. It's really important to raise awareness about the struggles that children face in places like Syria and other conflict zones. Many kids are in desperate need of help, and organizations like Save the Children are working tirelessly to provide them with essential support. Would you like to hear more about what they do?
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: C
+理由: C. Both equally effective
+
+Both responses effectively acknowledge
+
+--------------------------------------------------
+
+比较项 19:
+上下文: Persuader: Hi. Are you familiar with Save the Children?
+            Persuadee: Hello. I am not familiar with Save the Children
+            Persuader: It is worldwide and helps to feed, shelter and edu...
+回复1: Save the Children reaches millions of children each year. In fact, they have helped over 200 million children globally since their founding. Their programs focus on health, education, and protection to ensure children have a better future. Would you like to help support these efforts?
+回复2: Save the Children reaches millions of children each year. In fact, they have helped over 200 million children in the last few years alone through various programs focused on health, education, and protection. It's incredible to see the impact they make! Would you like to join in making a difference?
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 20:
+上下文: Persuader: Hello there!
+            Persuadee: hello how are you
+            Persuader: Fine. We\'re doing this drive for "Save the Children," and we were hoping for you to donate.
+            Persuad...
+回复1: That's completely understandable. It's important to feel comfortable with your decision. If you have any questions or want to know more about how the donations are used, I'm here to help!
+回复2: That's completely understandable. It’s a big decision, and it's important to feel comfortable with it. If you have any questions about the charity or how your donation would help, I’d be happy to share more information!
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: B
+理由: B. Response B
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: C
+理由: C. Both equally effective
+
+--------------------------------------------------
+
+比较项 21:
+上下文: Persuader: I am supposed to get you to donate some of your payment to a children's charity.
+            Persuadee: Could you tell me more about the charity?
+            Persuader: It appears to be com...
+回复1: That's true. People generally want to know how their money will be used and what impact it can have. It’s important for organizations to be transparent about their work and the communities they serve.
+回复2: That is a fair point. I just know that Save the Children has a reputation for helping children in need across the globe, but I understand if you want more details before considering a donation.
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 22:
+上下文: Persuader: Hello there!
+            Persuadee: hello how are you
+            Persuader: Fine. We\'re doing this drive for "Save the Children," and we were hoping for you to donate.
+            Persuad...
+回复1: I understand. It's a big decision. If you have any questions about the charity or how your donation would be used, I'd be happy to share more information!
+回复2: I understand. It can be a tough decision. If you have any questions about the charity or how your donation would be used, I’d be happy to provide more information!
+
+Donation Motivation - Which better motivates donation consideration: C
+理由: C. Both equally effective
+
+Both responses show empathy
+Persuasive Argument - Which has more convincing arguments: C
+理由: C. Both equally effective
+
+Both responses offer to
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 23:
+上下文: Persuader: Hello how are you this morning.
+            Persuadee: I'm good, and you?
+            Persuader: I'm very well, thank you. Well the reason I'm contacting you is because I'm trying to find d...
+回复1: Your donation can help provide a variety of essential supplies, such as food, clean water, medical care, educational materials, and even shelter for children in need. Every dollar contributes to making sure these kids have what they need to survive and thrive.
+回复2: Your donation can provide a variety of supplies, depending on the specific needs of the children. It could help fund educational materials like books and school supplies, food and nutrition support, medical care and vaccinations, or even emergency assistance in crisis situations. Every contribution helps meet essential needs for children in vulnerable situations.
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: B
+理由: B. Response B
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: B
+理由: B. Response B
+
+--------------------------------------------------
+
+比较项 24:
+上下文: Persuader: HI I would like to tell you About a childrens charity called Save the CHildren.
+            Persuadee: ok please do...
+回复1: Save the Children is an organization dedicated to improving the lives of children around the world, especially in developing countries and war zones. They focus on providing education, healthcare, and protection for vulnerable children. Their work has made a significant impact on countless lives, helping children access basic necessities and a better future. Would you be interested in learning more about how you can support their mission?
+回复2: Save the Children is an incredible organization that focuses on improving the lives of children in need all around the world. They work in developing countries and war zones, providing essential services like education, healthcare, and emergency relief. Their mission is to ensure that every child has the opportunity to grow up healthy, educated, and safe. Would you be interested in learning more about how your support can make a difference?
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: B
+理由: B. Response B
+
+--------------------------------------------------
+
+比较项 25:
+上下文: Persuader: Have you heard of the charity Save the Children?
+            Persuadee: No, I don't believe I have. What are their goals?
+            Persuader: They give children a healthy start in life, ...
+回复1: Save the Children is an international charity. They work in over 120 countries around the world, including areas affected by conflict, natural disasters, and extreme poverty. Their goal is to ensure that every child has access to education, health care, and protection from harm, no matter where they are.
+回复2: Save the Children is an international charity that operates in over 120 countries around the world. They focus on areas where children are most in need, including developing countries and regions affected by conflict or natural disasters. Their work spans across Africa, Asia, Latin America, and even parts of Europe.
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 26:
+上下文: Persuader: I am supposed to get you to donate some of your payment to a children's charity.
+            Persuadee: Could you tell me more about the charity?
+            Persuader: It appears to be com...
+回复1: I'm not sure if I will donate either. I guess I'm just trying to encourage others to help out, but there isn't anything in it for me personally.
+回复2: I’m not personally benefiting from your donation. My role is just to raise awareness and encourage support for the charity. It's really about helping children in need, not about any personal gain for me.
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: B
+理由: B. Response B
+Emotional Resonance - Which connects better emotionally: B
+理由: B. Response B
+Overall Effectiveness - Which is better for convincing donation: B
+理由: B. Response B
+
+--------------------------------------------------
+
+比较项 27:
+上下文: Persuader: Hello.
+            Persuadee: Hello!...
+回复1: How are you doing today?
+回复2: How's your day going so far?
+
+Donation Motivation - Which better motivates donation consideration: C
+理由: C. Both equally effective
+
+Both responses show a
+Persuasive Argument - Which has more convincing arguments: C
+理由: C. Both equally effective
+
+Both responses are appropriate
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: C
+理由: C. Both equally effective
+
+Both responses are polite
+
+--------------------------------------------------
+
+比较项 28:
+上下文: Persuader: Hello, are you interested in protection of rights of children?
+            Persuadee: Yes, definitely. What do you have in mind?
+            Persuader: There is organisation called Save the...
+回复1: Yes, that's right! A portion of the bonuses or rewards earned through the survey will be donated to Save the Children. It's a way for us to contribute while participating in this survey.
+回复2: Yes, the donation will be made from a portion of the rewards or bonuses that we receive for participating in this survey. It’s a nice way to give back while also contributing to an important cause.
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: B
+理由: B. Response B
+
+--------------------------------------------------
+
+比较项 29:
+上下文: Persuader: will you donate some of your payment to save the children?
+            Persuadee: Yes, I would donate some of my payment to help save children. How about you? Are we supposed to mutually ag...
+回复1: I will donate 10 cents of my 30 cent payment. Save the Children works to improve the lives of children in need around the world by providing education, health care, and emergency assistance during crises. They focus on ensuring that every child has a chance for a better future.
+回复2: I will donate 10 cents of my 30 cent payment as well. Save the Children focuses on improving the lives of children in need, providing them with education, healthcare, and protection from harm. They work in various countries around the world to ensure that every child has a chance at a better future.
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 30:
+上下文: Persuader: Hello, how are you today?
+            Persuadee: I'm good. What Children's charity would you like to donate money to?
+            Persuader: I like to donate, but i have a soft heart for ch...
+回复1: Absolutely! It makes it convenient for everyone to contribute, and even small amounts can add up to make a significant impact.
+回复2: Absolutely! It makes it accessible for everyone to contribute, even if it's just a small amount. Every bit helps!
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+
+Response A provides a more
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 31:
+上下文: Persuader: This site Helps many child
+            Persuadee: What kind of children does it help?
+            Persuader: Their motto is to help children's future...that every child deserves a future
+  ...
+回复1: Yes, with child sponsorship, you typically make a monthly donation. The minimum amount can vary, but many organizations allow you to start with a small contribution, often around $30 a month. However, some might have lower options available as well. It's great that you're considering it!
+回复2: Yes, with sponsorship, you typically make a monthly donation. The minimum amount can vary, but often it’s around $30 or so per month. This helps provide the child with essential needs like education, healthcare, and food. However, any amount you can contribute is valuable and appreciated!
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: B
+理由: B. Response B
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 32:
+上下文: Persuader: Hello.
+            Persuadee: Hello!
+            Persuader: I am supposed to ask you if you care about people being killed in Syria and things like that, I don't want to cause you any emoti...
+回复1: No need to apologize! It's a valid concern. Transparency is really important when it comes to donations, and Save the Children works hard to ensure that funds go directly to helping children in need. They provide regular reports on their spending and the impact of their work, so you can see how your contribution truly makes a difference.
+回复2: No need to apologize! It's good to express those concerns. It’s completely understandable to want your donation to make a real impact. Save the Children is transparent about their finances and ensures that a significant portion of donations goes directly to programs that help children in need, rather than administrative costs. It’s frustrating when donations don’t go where they should, but organizations like this work hard to ensure that your contribution helps those who truly need it.
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 33:
+上下文: Persuader: Hello, how are you today?
+            Persuadee: I'm good. What Children's charity would you like to donate money to?...
+回复1: I'm glad to hear that! I would love to tell you about Save the Children. It's a charity that works tirelessly to improve the lives of children in need around the world, especially in developing countries and war zones. Have you heard of it before?
+回复2: I'm glad to hear you're doing well! I’d love to share about Save the Children. It’s a fantastic charity that focuses on helping children in developing countries and war zones. They provide essential support like education, healthcare, and protection from harm. Have you heard of them before?
+
+Donation Motivation - Which better motivates donation consideration: C
+理由: C. Both equally effective
+
+Both responses provide a
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 34:
+上下文: Persuader: Hi... how are you today? The research team is helping an organization called 'Save the Children'. Have you heard of it?
+            Persuadee: im doing well! How about you? I have heard abo...
+回复1: Absolutely! If everyone contributed just a little, we could make a significant impact in the lives of so many children around the world. Have you thought about how much you'd like to donate? Even a small amount can really help.
+回复2: Absolutely! It's heartwarming to see compassion and a willingness to help others. Together, we can make a difference for those in need. Do you think you'd be interested in making a small donation to support Save the Children?
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 35:
+上下文: Persuader: Hello, How you doing
+            Persuadee: Great thanks, Im here to talk about the childrens charity.
+            Persuader: Yes, Hope you aware whats going with child who died from hunger...
+回复1: That's wonderful to hear! Every contribution makes a significant impact in the lives of children in need. Do you have a specific amount in mind that you'd like to donate?
+回复2: That's wonderful to hear! Every donation, no matter the size, can make a real difference in the lives of children in need. Do you have a specific amount in mind that you would like to donate?
+
+Donation Motivation - Which better motivates donation consideration: C
+理由: C. Both equally effective
+
+Both responses emphasize the
+Persuasive Argument - Which has more convincing arguments: C
+理由: C. Both equally effective
+
+Both Response A and
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: C
+理由: C. Both equally effective
+
+Both responses emphasize the
+
+--------------------------------------------------
+
+比较项 36:
+上下文: Persuader: Hello, How you doing
+            Persuadee: Great thanks, Im here to talk about the childrens charity.
+            Persuader: Yes, Hope you aware whats going with child who died from hunger...
+回复1: Yes, that's correct! Thank you for your generous contribution. It will make a significant difference for the children in need.
+回复2: Yes, that’s correct! Thank you so much for your generous donation. It will make a significant impact on the lives of many children.
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: B
+理由: B. Response B
+Overall Effectiveness - Which is better for convincing donation: B
+理由: B. Response B
+
+--------------------------------------------------
+
+比较项 37:
+上下文: Persuader: Have you heard of the charity Save the Children?
+            Persuadee: No, I don't believe I have. What are their goals?
+            Persuader: They give children a healthy start in life, ...
+回复1: The remaining percentage typically goes towards administrative costs, fundraising efforts, and other operational expenses. This ensures that the organization can effectively carry out its mission and reach as many children as possible. It's important for them to maintain a sustainable model so they can continue their work long-term.
+回复2: The remaining percentage typically goes towards administrative costs, fundraising efforts, and program development. This ensures that they can continue to operate effectively and reach even more children in need. It’s important for organizations to maintain sustainability while maximizing the impact of donations. Would you like to know more about how they use funds?
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: B
+理由: B. Response B
+
+--------------------------------------------------
+
+比较项 38:
+上下文: Persuader: Have you heard of the charity Save the Children?
+            Persuadee: No, I don't believe I have. What are their goals?
+            Persuader: They give children a healthy start in life, ...
+回复1: On average, many donors contribute around $50 to $100 at a time. However, every donation, no matter how small, makes a significant impact. Some people even choose to donate just a few dollars monthly!
+回复2: The average donation can vary quite a bit, but many donors contribute around $25 to $50 at a time. However, any amount is appreciated, and even small donations like $1 or $5 can make a significant impact when combined with others.
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: B
+理由: B. Response B
+
+--------------------------------------------------
+
+比较项 39:
+上下文: Persuader: Would you be interested in donating to Save the Children ?
+            Persuadee: I am one who like to donate. Can you tell me more about it?
+            Persuader: Save the Children helps ...
+回复1: Yes, Save the Children has received positive feedback for its transparency and impact in various regions. They're often recognized for their effective programs that address immediate needs like food and shelter, as well as long-term solutions like education. They also provide updates on their website about ongoing projects and how donations are being utilized.
+回复2: Yes, there have been several reports and articles highlighting the positive impact Save the Children has had in various regions. They often share success stories about how their programs have helped improve children's lives through education, healthcare, and emergency relief efforts. You can find more details on their website or in their annual reports if you're interested.
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 40:
+上下文: Persuader: Hello. How are you?
+            Persuadee: I'm good, how are you doing?
+            Persuader: Very well. I'm just up organizing info for my charity. Are you involved with charities?
+      ...
+回复1: We organize various events, online campaigns, and outreach programs to engage people and encourage them to contribute. It's all about spreading awareness and showing how their support can make a difference for children in need.
+回复2: We organize various events, campaigns, and online fundraisers to engage people and encourage them to contribute. It's all about spreading awareness and showing how even small donations can make a big difference for children in need.
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: B
+理由: B. Response B
+
+--------------------------------------------------
+
+比较项 41:
+上下文: Persuader: Hello. How are you?
+            Persuadee: I'm good, how are you doing?
+            Persuader: Very well. I'm just up organizing info for my charity. Are you involved with charities?
+      ...
+回复1: I help raise awareness and funds to support their programs that provide education, food, healthcare, and protection for children in need around the world. It's truly rewarding to be part of something that makes such a positive impact.
+回复2: I help raise awareness and funds for the organization. They focus on providing support to children in need, especially in developing countries and war zones. It's all about ensuring they have access to education, healthcare, and protection from harm.
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 42:
+上下文: Persuader: I am supposed to get you to donate some of your payment to a children's charity.
+            Persuadee: Could you tell me more about the charity?
+            Persuader: It appears to be com...
+回复1: The website for Save the Children is www.savethechildren.org. You can find more detailed information about their programs, impact, and how donations are used there.
+回复2: Their website is www.savethechildren.org. You can find more detailed information about their programs, how donations are used, and the impact they have on children's lives there.
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 43:
+上下文: Persuader: Hi... how are you today? The research team is helping an organization called 'Save the Children'. Have you heard of it?
+            Persuadee: im doing well! How about you? I have heard abo...
+回复1: Save the Children has millions of supporters around the world. It's a global community of people who believe in making a difference for children in need. Every day, countless individuals contribute, whether it's through small donations or larger commitments. It really shows how much collective action can achieve!
+回复2: Thousands of people donate to Save the Children every day, and together they make a significant impact. Many individuals contribute small amounts, which adds up to help fund various programs for children in need around the world. It's really inspiring to see so many people come together for such an important cause!
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+
+Response A provides a more
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 44:
+上下文: Persuader: Hello how are you this morning.
+            Persuadee: I'm good, and you?...
+回复1: I'm doing well, thank you! I've been thinking a lot about ways we can help those in need, especially children around the world. Have you heard of the charity Save the Children?
+回复2: I'm doing well, thank you! I wanted to take a moment to talk about an organization that’s really close to my heart—Save the Children. Have you heard of it before?
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 45:
+上下文: Persuader: Hi. Are you familiar with Save the Children?
+            Persuadee: Hello. I am not familiar with Save the Children
+            Persuader: It is worldwide and helps to feed, shelter and edu...
+回复1: Save the Children is headquartered in London, but they operate in many countries around the world. They have local offices that work directly with communities to address their specific needs. Would you like me to share more about their programs?
+回复2: Save the Children is headquartered in London, but they operate in many countries around the world. They have local offices and teams dedicated to helping children in need wherever they are. If you have any specific questions about their programs or impact, I can help with that!
+
+Donation Motivation - Which better motivates donation consideration: B
+理由: B. Response B
+Persuasive Argument - Which has more convincing arguments: B
+理由: B. Response B
+Emotional Resonance - Which connects better emotionally: B
+理由: B. Response B
+Overall Effectiveness - Which is better for convincing donation: B
+理由: B. Response B
+
+--------------------------------------------------
+
+比较项 46:
+上下文: Persuader: Hi... how are you today? The research team is helping an organization called 'Save the Children'. Have you heard of it?
+            Persuadee: im doing well! How about you? I have heard abo...
+回复1: It really is! They work tirelessly to provide education, healthcare, and protection for children in need. Their impact can be life-changing for so many kids who are facing challenging circumstances. It’s incredible to think how much a small donation can help improve their lives.
+回复2: It really is! They work in many areas, including education, health care, and emergency relief in war zones. Their mission is to ensure that every child has the opportunity to grow up healthy and educated. It’s incredible how much impact they have on the lives of vulnerable children.
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 47:
+上下文: Persuader: HI I would like to tell you About a childrens charity called Save the CHildren.
+            Persuadee: ok please do
+            Persuader: Save the Children is an international non-governme...
+回复1: I completely understand and appreciate your firm decision. Thank you for your willingness to donate 0.60. Every bit helps, and it’s great to know that you’re contributing to such an important cause! Would you like me to guide you through the donation process?
+回复2: I understand and appreciate your firm decision. Thank you for your donation of .60 to Save the Children. Every bit helps, and it's great to know you're contributing to such an important cause. If you have any questions or need further information about how your donation is used, feel free to ask!
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 48:
+上下文: Persuader: Hello, how are you today?
+            Persuadee: I'm good. What Children's charity would you like to donate money to?
+            Persuader: I like to donate, but i have a soft heart for ch...
+回复1: Yes, that's right! Save the Children works in many countries, providing support to children in need, whether it's in developing areas or conflict zones. They focus on education, health care, and protection for vulnerable children.
+回复2: Yes, that's correct! Save the Children works in many countries, providing support to children in need, whether it's through education, health care, or emergency relief during crises. They really focus on improving the lives of children globally.
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
+比较项 49:
+上下文: Persuader: Would you like to donate to a Charity called Save the Children?
+            Persuadee: Hi, it all depends on who you really are, if it's for a person very close to me if I'm willing
+       ...
+回复1: No problem at all! I'm glad to hear that you're interested in supporting a good cause. Every donation, no matter how small, helps provide essential resources for children in need. Would you like to consider making a small donation today?
+回复2: No problem at all! I’m glad to hear that you're interested in helping. Every contribution, no matter how small, can make a significant difference in the lives of children in need. Would you like to consider making a small donation today?
+
+Donation Motivation - Which better motivates donation consideration: C
+理由: C. Both equally effective
+
+Both responses effectively motivate
+Persuasive Argument - Which has more convincing arguments: C
+理由: C. Both equally effective
+
+Both responses emphasize the
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: C
+理由: C. Both equally effective
+
+Both responses effectively emphasize
+
+--------------------------------------------------
+
+比较项 50:
+上下文: Persuader: Hello! Ho are you doing today?
+            Persuadee: doing fine, what about you
+            Persuader: I'm doing great but i would feel so much better if you let me tell you about one amaz...
+回复1: That's right! It’s really impressive how much of the donations go directly to helping children in need. It's great to see that your support can have such a significant impact.
+回复2: That's wonderful to hear! It really shows how committed they are to making a difference. If you feel comfortable, would you consider making a donation? Even a small amount can help.
+
+Donation Motivation - Which better motivates donation consideration: A
+理由: A. Response A
+Persuasive Argument - Which has more convincing arguments: A
+理由: A. Response A
+Emotional Resonance - Which connects better emotionally: A
+理由: A. Response A
+Overall Effectiveness - Which is better for convincing donation: A
+理由: A. Response A
+
+--------------------------------------------------
+
